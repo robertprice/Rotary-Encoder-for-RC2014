@@ -4,6 +4,8 @@ This is my entry for the Retro Challenge 2024, a Rotary Encoder module for the R
 
 The module provides interfaces for two rotary encoders, as well as visual feedback and debugging pin headers.
 
+https://www.robertprice.co.uk/robblog/category/rc2024/
+
 ## Usage
 
 The Rotary Encoder module has been assigned port D7 (215 in decimal), with A7 as an alernative if this clashes with another module.
