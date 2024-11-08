@@ -38,6 +38,10 @@ There are examples in BASIC and Z80 machine code.
 
 The Gerber files, BOM, and schematic (created using EasyEDA) to build your own module can be found in the PCB folder.
 
+The debug port is optional, only fit this if you want access to see the values going into the RC2014.
+
+The LEDs are also optional. If you don't want these, they can be left out along with the resistor array (R3) next to them.
+
 ## Where to buy a suitable rotary encoder
 
 Rotary encoders can be purchased on Amazon, eBay, AliExpress, or your favourite electronics provider.
